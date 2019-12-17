@@ -1,0 +1,38 @@
+<annotation>
+	<folder>project documents</folder>
+	<filename>2019-12-15 (1).png</filename>
+	<path>C:\Users\rahul\Documents\pycharmProjects\objectDETECTION\project documents\2019-12-15 (1).png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ball</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>516</xmin>
+			<ymin>47</ymin>
+			<xmax>947</xmax>
+			<ymax>333</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>ball</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1424</xmin>
+			<ymin>586</ymin>
+			<xmax>1778</xmax>
+			<ymax>836</ymax>
+		</bndbox>
+	</object>
+</annotation>
